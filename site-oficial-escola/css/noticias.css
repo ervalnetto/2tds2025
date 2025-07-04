@@ -1,15 +1,25 @@
 .container {
     text-align: center;
+<<<<<<< HEAD
     background-color: rgb(177, 190, 211);
+=======
+    background-color: rgb(177, 177, 211);
+>>>>>>> 282382342aab0ef8e3bcef80403c28023ed792c3
     width: auto;
     padding: 40px;
     font-family: sans-serif;
 
 }
+<<<<<<< HEAD
 .card{
     display: inline-block   ;
     margin-left: 20px;
     margin-bottom: 50px;
+=======
+.card1{
+    display: inline-block   ;
+    margin-left: 20px;
+>>>>>>> 282382342aab0ef8e3bcef80403c28023ed792c3
 }
 .Imagem1 {
     border-radius: 20px;  
@@ -17,6 +27,7 @@
     width: 350px;
     z-index: -100;
 } 
+<<<<<<< HEAD
 /* a {
     border-radius: 20px;
     width: 90%;
@@ -39,6 +50,18 @@
     margin-bottom: 1em;
   }
 
+=======
+.Botao1 {
+    border-radius: 20px;
+    width: 80%;
+    height: 40px;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: #ffffff;
+    background-color: rgb(184, 139, 255);
+    font-size: 20px;
+}
+>>>>>>> 282382342aab0ef8e3bcef80403c28023ed792c3
 .name{
     margin-top:-200px;
     margin-bottom: 60px;
